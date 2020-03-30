@@ -12,3 +12,4 @@ python main.py
 
 ### TODO
 - command line params
+- pixels calibration
