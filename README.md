@@ -8,3 +8,7 @@ python main.py
 ### Examples
 ![alt text](https://github.com/mateuszz0000/art2ascii/blob/master/DonaldDuck.png "Logo Title Text 1")
 ![alt text](https://github.com/mateuszz0000/art2ascii/blob/master/DonaldDuckTXT.PNG "Logo Title Text 1")
+
+
+### TODO
+- command line params
